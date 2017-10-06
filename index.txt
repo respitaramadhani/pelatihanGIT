@@ -1,1 +1,5 @@
 pelatihan git
+
+git commit -m "First Commit" --> memasukkan dalam repositori
+git status --> mengecek status
+git init --> memulai git
