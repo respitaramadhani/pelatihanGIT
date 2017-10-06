@@ -1,5 +1,11 @@
 pelatihan git
 
+git init --> inisialisasi git
+
+----menambahkan commit dalam master----
+git add . --> 
 git commit -m "First Commit" --> memasukkan dalam repositori
 git status --> mengecek status
-git init --> memulai git
+git remote add origin https:??github.com/respitaramadhani/judul.git --> memasukkan git ke server github
+
+
